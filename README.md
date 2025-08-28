@@ -60,12 +60,6 @@ Prayer times and date are provided by:\
 
 ------------------------------------------------------------------------
 
-## 📸 Screenshot
-
-> (Add a screenshot of your app here once it's running)
-
-------------------------------------------------------------------------
-
 ## 📌 Future Improvements
 
 -   Add dark mode support.\
